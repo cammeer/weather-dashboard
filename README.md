@@ -13,7 +13,7 @@ Project is created with:
 * JavaScript
 * [Moment.js](https://momentjs.com/) library
 * Tailwind
-* [OpenWEather](https://openweathermap.org/api) APIs
+* [OpenWeather](https://openweathermap.org/api) APIs
 
 ## Launch
 To launch this site, [click here](https://cammeer.github.io/weather-dashboard/
